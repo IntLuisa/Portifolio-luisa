@@ -1,33 +1,111 @@
-# DIO-Portfolio - (FORMAÇÃO JAVASCRIPT DEVELOPER)
+<h1 align="center" style="font-weight: bold;"> 📱 Criando uma Portifolio online</h1>
+<h2 align= "center" style="font-weight: bold;">🚀 Um projeto para treinar habilidades de desenvolvimento web e uso de APIs! 🌐</h1>
 
-![](assets/img/developer.png)
- 
- Projeto Digital Inovation One PARA A FORMAÇÃO de um Portfólio em nodes, html, css e javascript (Formação JavaScript Developer)Portfólio criado junto com o Bootcamp de JS da Digital Innovation One
+<div align="center">
 
-<a href='https://joserenatofelix.github.io/js-developer-portfolio/'><button>Confira o projeto clicando aqui</button>
+![Status](https://img.shields.io/badge/status-%20concluido-green?style=for-the-badge)&nbsp;&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Dio.me](https://img.shields.io/badge/dio.me-000080.svg?style=for-the-badge&logo=&logoColor=white)&nbsp;&nbsp;&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![image](https://github.com/joserenatofelix/js-developer-portfolio/assets/93296913/2187f13b-66b9-473f-ac9a-c13c81b88a19)
+</div>
+
+<p align="center">
+ <a href="#tech">🛠️ Technologies</a> • 
+ <a href="#started">🚀 Getting Started</a> 
+ <!-- <a href="#colab">👥 Collaborators</a> •
+ <a href="#contribute">🤝 Contribute</a> -->
+</p>
+
+<p align="center">
+    <b>🌟 Este projeto foi criado para estudar JavaScript e como utilizá-lo em um desenvolvimento web com uma API! 🚀</b>
+</p>
+
+<p align="center">
+    Meu portfólio é uma aplicação web que utiliza tecnologias modernas para exibir meus projetos, habilidades e experiências. O objetivo principal foi praticar o desenvolvimento de interfaces responsivas, a manipulação do DOM com JavaScript e a integração de APIs para dinamizar o conteúdo. Aqui, você encontrará um pouco sobre mim, meus trabalhos e como posso ajudar a transformar ideias em realidade.
+</p>
+
+<p align="center">
+    <b>Funcionalidades Principais:</b>
+</p>
+
+- 🛠️ **Habilidades**: Destaque das minhas competências técnicas, como HTML, CSS, JavaScript e integração de APIs.
+- 🚀 **Projetos**: Exibição dos meus principais trabalhos, com descrições e links para explorar.
+- 🌐 **Integração com APIs**: Uso de APIs para dinamizar o conteúdo e mostrar meu conhecimento em consumo de dados.
 
 
-## Detalhes da formação
-Aprenda JavaScript do zero, em uma abordagem de ensino totalmente imersiva e prática. Nesta formação você aprenderá desde os fundamentos desta linguagem de programação até o seu papel essencial na Web atualmente. Para isso, traremos uma dinâmica diferente de tudo o que você já viu, onde o expert conduz todo o primeiro módulo usando a técnica de "pair programming", ensinando o JavaScript do zero para um profissional em transição de carreira.
+<!-- <p align="center">
+     <a href="PROJECT__URL" target="_blank">📱 Visite o Projeto Online</a>
+</p>
 
-Nos dois módulos seguintes, você dominará os conceitos necessários para utilizar o JavaScript na Web, com ênfase no consumo de APIs, convenções e boas práticas. Por fim, para fechar a sua jornada com chave de ouro, você criará seu próprio currículo online com a identidade visual da DIO. Pré-requisitos: Nenhuma, mas Lógica de Programação e Pensamento Computacional são sempre bem-vindos. Boooora!? 👩‍💻👨‍💻
+<h2 id="layout">🎨 Layout</h2>
 
-⚠️Pré-requisitos: Conhecimentos básicos em Lógica de Programação e Pensamento Computacional
+<p align="center">
+    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="../.github/example.png" alt="Image Example" width="400px">
+</p>
 
-✅Desejáveis: Formação HTML Developer e Formação CSS Developer
+<p align="center">
+    <i>✨ Confira como o projeto ficou! ✨</i>
+</p> -->
 
-Atividades:
-Desafio de Código: Coloque em prática todo o conhecimento adquirido nas aulas e teste o seu conhecimento na resolução de um desafio.
+<h2 id="technologies">💻 Technologies</h2>
 
-Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com o conhecimento adquirido ao longo das aulas.
+- **HTML**: Estrutura da página.
+- **CSS**: Estilização e design responsivo. 
+- **JavaScript**: Adiciona interatividade, funcionalidades dinâmicas e manipulação de dados por meio de um JSON, integrando uma API para exibir conteúdo atualizado e dinâmico no portfólio.
 
-Ferramentas para o seu aprendizado:
-Fórum: Espaço para você interagir e tirar suas dúvidas técnicas com a nossa comunidade.
 
-Rooms: Espaço para você conversar com outros matriculados no bootcamp e aumentar o seu networking.
+<!-- 
+<h2 id="colab">🤝 Collaborators</h2> -->
 
-Matriculados: Saiba quem está participando da mesma jornada educacional que você.
+<!-- <p align="center">
+    Um agradecimento especial a todos que contribuíram para este projeto! 🚀
+</p>
 
-Certificado: Baixe e compartilhe os certificados de todas as suas conquistas ao longo dessa formação.
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/seu-usuario">
+        <img src="https://avatars.githubusercontent.com/u/seusuario" width="100px;" alt="Foto do Colaborador"/>
+        <br />
+        <sub><b>Seu Nome</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/outro-usuario">
+        <img src="https://avatars.githubusercontent.com/u/outrousuario" width="100px;" alt="Foto do Colaborador"/>
+        <br />
+        <sub><b>Outro Nome</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div> -->
+<!-- 
+<p align="center">
+    💡 Quer contribuir também? Veja como <a href="#contribute">aqui</a>!
+</p> -->
+
+<!-- <h2 id="contribute">📫 Contribute</h2>
+
+Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
+
+1. `git clone https://github.com/Fernanda-Kipper/text-editor.git`
+2. `git checkout -b feature/NAME`
+3. Follow commit patterns
+4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
+
+<h3>Documentations that might help</h3>
+
+[📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
+
+[💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) -->
