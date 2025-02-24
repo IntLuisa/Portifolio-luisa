@@ -1,0 +1,69 @@
+{
+  "name": "Luisa Cássia de Oliveira",
+  "photo": "https://avatars.githubusercontent.com/u/162024360?v=4",
+  "job": "Desenvolvedora FrontEnd",
+  "location": "Caruaru - PE",
+  "phone": "(81) 99266-8260",
+  "email": "luisa.interaminense@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/joserenatofelix/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/joserenatofelix/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JS",
+        "logo": "https://raw.githubusercontent.com/joserenatofelix/js-developer-portfolio/main/data/imgs/js.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Criando uma Pokedex com a DIO",
+      "url": "joserenatofelix-pokedex.netlify.app/",
+      "github": true
+    },
+    {
+      "name": "Código deste Portfólio",
+      "url": "https://github.com/joserenatofelix/js-developer-portfolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "TOTVS SA",
+      "period": "10/2023 - até o momento",
+      "description": "Desenvolvimento, criação de novas funcionalidades e resolução de bugs em aplicações web e mobile escritas em Angular, PO UI, typescript e java com spring boot com apis e integração com banco de dados postgreSql."
+    },
+    {
+      "name": "SOLUTIC CONSULTORIA E ASSESSORIA LTDA",
+      "period": "04/2023 - até 10/2023",
+      "description": "Responsavél pela criação de telas relacionadas ao compartilhamento de dados, balanceamento."
+    },
+    {
+      "name": "TO Brasil Consultoria em Tecnologia da Informacao Ltda.",
+      "period": "11/2022 até 04/2023",
+      "description": "Na sustentação do banco Santander, manutenção de aplicações front e bak-end."
+    },
+    {
+      "name": "Security Dynamics Tecnologia e Sistemas Ltda.",
+      "period": "12/2019 até 11/2022",
+      "description": "Correções em aplicações Front-ent."
+    }
+  ]
+}
